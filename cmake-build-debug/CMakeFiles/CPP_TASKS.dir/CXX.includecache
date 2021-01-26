@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ricnorr/Рабочий стол/CPP-TASKS/main.cpp
+iostream
+/home/ricnorr/Рабочий стол/CPP-TASKS/iostream
+iostream
+-
+string
+/home/ricnorr/Рабочий стол/CPP-TASKS/string
+

@@ -1,0 +1,3 @@
+/home/ricnorr/Рабочий стол/CPP-TASKS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ricnorr/Рабочий стол/CPP-TASKS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ricnorr/Рабочий стол/CPP-TASKS/cmake-build-debug/CMakeFiles/CPP_TASKS.dir
